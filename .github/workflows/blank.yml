@@ -5,5 +5,5 @@ on: push
 jobs:
   my-job:
     runs-on: ubuntu-latest
-      - name: step-1
+      - name: my-step
         run: echo Hello, world!
